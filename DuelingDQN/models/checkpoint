@@ -1,0 +1,2 @@
+model_checkpoint_path: "d:\\Projects\\PycharmProjects\\HuaweiContest\\DuelingDQN\\models\\VCM_environment.ckpt"
+all_model_checkpoint_paths: "d:\\Projects\\PycharmProjects\\HuaweiContest\\DuelingDQN\\models\\VCM_environment.ckpt"
